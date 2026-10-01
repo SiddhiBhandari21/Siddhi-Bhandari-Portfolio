@@ -521,6 +521,6 @@ button { cursor: pointer; border: none; outline: none; font-family: inherit; }
 .about__description strong { color: var(--title-color); font-weight: var(--font-semi-bold); }
 
 /* =============== LEETCODE ICON =============== */
-.lc-icon { width: 1em; height: 1em; display: block; }
 .home__social-icon { display: inline-flex; }
-.home__social-icon .lc-icon { width: 1.15em; height: 1.15em; margin-left: .1em; }
+.home__social-icon .bx { font-size: 1.4rem; }
+.footer__social-link .bx { font-size: 1.125rem; }
