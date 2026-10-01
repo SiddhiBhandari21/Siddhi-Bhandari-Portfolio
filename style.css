@@ -519,3 +519,8 @@ button { cursor: pointer; border: none; outline: none; font-family: inherit; }
   .nav__btns { position: static; transform: none; }
 }
 .about__description strong { color: var(--title-color); font-weight: var(--font-semi-bold); }
+
+/* =============== LEETCODE ICON =============== */
+.lc-icon { width: 1em; height: 1em; display: block; }
+.home__social-icon { display: inline-flex; }
+.home__social-icon .lc-icon { width: 1.15em; height: 1.15em; margin-left: .1em; }
