@@ -518,3 +518,4 @@ button { cursor: pointer; border: none; outline: none; font-family: inherit; }
   .nav { justify-content: flex-end; }
   .nav__btns { position: static; transform: none; }
 }
+.about__description strong { color: var(--title-color); font-weight: var(--font-semi-bold); }
